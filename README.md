@@ -19,3 +19,8 @@
 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=itsencrypted&repo=animado&show_owner=true)](https://github.com/itsencrypted/animado)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itsencrypted/count.svg" />
+</p>
