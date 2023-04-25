@@ -3,9 +3,6 @@
 <a href="https://twitter.com/itsencrypted1">
   <img align="left" alt="Juliana | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
-<a href="https://medium.com/@jupassos">
-  <img align="left" alt="Juliana Passos | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>
 
 <br />
 <br />
