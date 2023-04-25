@@ -11,7 +11,6 @@
 <br />
 
 - 🔭 I’m on Gitcoin [It's Encrypted](https://gitcoin.co/itsencrypted)
-- 🌱 I’m always learning! Recently got into AWS Sagemaker Rabbithole
 - 🌱 In Ethereum since 2017, acting as community manager of ETH Devs Sao Paulo
 - 📫 And you can reach me: <a href="https://twitter.com/itsesncrypted1">Twitter @itsencrypted</a> 
 
