@@ -15,13 +15,6 @@
 - 🌱 In Ethereum since 2017, acting as community manager of ETH Devs Sao Paulo
 - 📫 And you can reach me: <a href="https://twitter.com/itsesncrypted1">Twitter @itsencrypted</a> 
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=itsencrypted&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=itsencrypted&layout=compact)
-
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=itsencrypted&repo=animado&show_owner=true)](https://github.com/itsencrypted/animado)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itsencrypted/count.svg" />
